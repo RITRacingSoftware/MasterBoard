@@ -1,0 +1,19 @@
+Replace Part C5 Cap, 5MM TH, Ceramic in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Cap, 5MM TH, Ceramic from Passives.IntLib
+Replace Part C6 Cap, 5MM TH, Ceramic in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Cap, 5MM TH, Ceramic from Passives.IntLib
+Replace Part C7 Cap, 5MM TH, Ceramic in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Cap, 5MM TH, Ceramic from Passives.IntLib
+Replace Part C9 Cap, 5MM TH, Ceramic in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Cap, 5MM TH, Ceramic from Passives.IntLib
+Replace Part C10 Cap, 5MM TH, Ceramic in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Cap, 5MM TH, Ceramic from Passives.IntLib
+Replace Part C11 Cap, 5MM TH, Ceramic in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Cap, 5MM TH, Ceramic from Passives.IntLib
+Replace Part J1 SAMTEC-FTSH-105-01-X-D in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with SAMTEC-FTSH-105-01-X-D from SnapEDAsch.SchLib
+Replace Part J2 CMP-1502-01064-1 in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with CMP-1502-01064-1 from BMS_MasterboardUpdated.SCHLIB
+Replace Part J4 30700-5080 in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with 30700-5080 from Connectors.IntLib
+Replace Part J5 43650-0209 in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with 43650-0209 from Connectors.IntLib
+Replace Part R8 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R9 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R11 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R12 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R13 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R14 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R15 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R16 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\CONNECTORS.SchDoc with Resistor, TH from Passives.IntLib
+Update Managed Component U4 From CMP-2000-07488-1[Reset Button] To CMP-2000-07488-1[FSM4JSMA] in CONNECTORS.SchDoc

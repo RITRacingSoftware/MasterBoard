@@ -1,0 +1,13 @@
+Added Component: Designator=PulseTransformer(PE-68386NL_PUL)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PE-68386NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Pulse_Electronics_2019-12-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Pulse Electronics Corporation"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IP Pin=PulseTransformer-1
+Added Pin To Net: NetName=IM Pin=PulseTransformer-2
+Added Pin To Net: NetName=IM_Out_Connector Pin=PulseTransformer-3
+Added Pin To Net: NetName=IP_Out_Connector Pin=PulseTransformer-4
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component PulseTransformer PE-68386NLT

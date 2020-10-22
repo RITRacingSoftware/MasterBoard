@@ -1,0 +1,22 @@
+Replace Part 5V LED, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with LED, TH from LED_s.IntLib
+Replace Part 12V_Fused LED, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with LED, TH from LED_s.IntLib
+Replace Part C1 Cap, 5MM TH, Ceramic in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Cap, 5MM TH, Ceramic from Passives.IntLib
+Replace Part C2 Cap, 5MM TH, Ceramic in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Cap, 5MM TH, Ceramic from Passives.IntLib
+Replace Part C3 Cap, 5MM TH, Ceramic in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Cap, 5MM TH, Ceramic from Passives.IntLib
+Replace Part C4 Cap, 5MM TH, Ceramic in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Cap, 5MM TH, Ceramic from Passives.IntLib
+Replace Part CanRX LED, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with LED, TH from LED_s.IntLib
+Replace Part CanTX LED, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with LED, TH from LED_s.IntLib
+Replace Part D8 D Zener in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with D Zener from Miscellaneous Devices.IntLib
+Replace Part F1 Fuse 2 in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Fuse 2 from Miscellaneous Devices.IntLib
+Replace Part HRTBT LED, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with LED, TH from LED_s.IntLib
+Replace Part R1 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R2 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R3 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R4 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R5 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R6 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part R7 Resistor, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with Resistor, TH from Passives.IntLib
+Replace Part RESET LED, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with LED, TH from LED_s.IntLib
+Replace Part SHUTDOWN LED, TH in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with LED, TH from LED_s.IntLib
+Replace Part U5 LM1117T-3.3 in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with LM1117T-3.3 from LM1117T-3.3.IntLib
+Replace Part U6 VXO7805-1000 in C:\Users\Public\Documents\Altium\Projects\BMS_MasterboardUpdated\POWER.SchDoc with VXO7805-1000 from Embedded.IntLib

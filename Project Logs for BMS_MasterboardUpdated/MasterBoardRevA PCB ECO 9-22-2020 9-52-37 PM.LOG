@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=HRTBT
+Change Component Designator: OldDesignator=D2 NewDesignator=SHUTDOWN
+Change Component Designator: OldDesignator=D3 NewDesignator=CanRX
+Change Component Designator: OldDesignator=D4 NewDesignator=CanTX
+Change Component Designator: OldDesignator=D5 NewDesignator=RESET
+Change Component Designator: OldDesignator=D6 NewDesignator=5V
+Change Component Designator: OldDesignator=D7 NewDesignator=12V_Fused
+Change Component Designator: OldDesignator=PT NewDesignator=PulseTransformer
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetHRTBT_1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetCanRX_1
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetCanTX_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=Net5V_1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=Net12V_Fused_1

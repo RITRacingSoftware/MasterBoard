@@ -1,0 +1,11 @@
+Change Component Comment : Designator=J1 Old Comment=5103308-1 New Comment=SAMTEC-FTSH-105-01-X-D
+Change Component Designator: OldDesignator=PT NewDesignator=PulseTransformer
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=821B1281-A1DD-4B38-9D43-461DD657427D New ItemGUID= Old RevisionGUID=E2BFFC53-6472-40AC-8D86-3B18EB989992 New RevisionGUID=
+Change component parameters: Designator = "J1" ("J1"); Footprint = "TECO-5103308-1_V"; UniqueID = "\IFNFYKKI" ("\IFNFYKKI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "FTSH-105-01-F-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FTSH-105-01-F-D/Samtec%20Inc./view-part/105348/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

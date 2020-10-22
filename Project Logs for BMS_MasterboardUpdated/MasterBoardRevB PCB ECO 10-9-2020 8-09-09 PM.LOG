@@ -1,0 +1,773 @@
+Added Component: Designator=5V(LED, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-LED's"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=12V_Fused(LED, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-LED's"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C1(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C2(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C9(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C10(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C11(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C12(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C13(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C14(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C15(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C16(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C17(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C18(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C19(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C20(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C21(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C22(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C23(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C24(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C25(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C26(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=CanRX(LED, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-LED's"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=CanTX(LED, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-LED's"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DO41-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N5817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N5817/STMicroelectronics/view-part/2770372/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D8(Diode, TH)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Thru-Hole; 2 Leads; 0.7 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DIODE-0.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=F1(PIN-W2/E2.8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Thru-Hole; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN-W2/E2.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=HRTBT(LED, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-LED's"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=J1(SAMTEC-FTSH-105-01-X-D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "FTSH-105-01-F-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/FTSH-105-01-F-D/Samtec%20Inc./view-part/105348/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(61300411121)
+Added Component: Designator=J4(30700-5080)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/molex/products/datasheet.jsp?part=active/0307004081_PCB_HEADERS.xml"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "30700-5080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Connectors"; VariantName = "[No Variations]"
+Added Component: Designator=J5(43650-0209)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.mouser.com/ds/2/418/NG_CD_1445088_A1-614413.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43650-0209"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "13Aug2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "600V"; VariantName = "[No Variations]"
+Added Component: Designator=PulseTransformer(PE-68386NL_PUL)
+Add component (AddParameter): Name = "Built_By"; Value = "EMA_Cory"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2018 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PE-68386NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SourceLibrary"; Value = "Pulse_Electronics_2019-12-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Pulse Electronics Corporation"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R9(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R11(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R12(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R13(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R14(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R15(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R16(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R17(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R18(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R19(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R20(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R21(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R22(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R23(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R24(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R25(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R26(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R27(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=RESET(LED, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-LED's"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=SHUTDOWN(LED, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-LED's"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=U1(*QFP50P1200X1200X160-64N)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.st.com/resource/en/datasheet/stm32f091rc.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Architecture"; Value = "ARM Cortex-M0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Bus Width"; Value = "32bits"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Embedded Processors and Controllers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC MCU 32BIT 256KB FLASH 64LQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "48MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C,SPI,USART,CAN,LIN,IrDA,I2S,SMBus"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "QFP50P1200X1200X160-64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "STM32F091RCT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temp"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Size"; Value = "256KBytes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Memory Type"; Value = "FLASH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "ARM Microcontrollers - MCU 16/32-BITS MICROS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "0.9-26.9mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of A/D Converters"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Adc Channels"; Value = "19"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Cores"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of I2C Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of I/Os"; Value = "52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Pwm Channels"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Spi Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Timers/Counters"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Uart Channels"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/stm32f091rct6-stmicroelectronics-51988683"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "LQFP64-5W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ram Size"; Value = "32KBytes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Added Component: Designator=U2(*SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MCP2561-E/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP2561-E/SN/Microchip/view-part/46593/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(LT-MS-16_M)
+Added Component: Designator=U4(TECO-FSM4JSMA_V)
+Added Component: Designator=U5(TO254P1054X470X1955-3)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=22275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "https://www.mouser.com/ProductDetail/Texas-Instruments/LM1117T-33-NOPB?qs=X1J7HmVL2ZF7RIQB6O0mNg%3D%3D&gclid=Cj0KCQjwvvj5BRDkARIsAGD9vlJnD1MNOYBTPv7FHDAskkwDQ_PuLBSV-edvQAne3qvGjGEuZX3qJSwaAtIgEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=22275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=22275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM1117T-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM1117T-3.3/NOPB/Texas%20Instruments/view-part/22275/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=22275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U6(CONV_VXO7805-1000)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOIC127P1032X265-20N)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=431052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=431052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=431052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74ACT541SC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-20 Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74ACT541SC/ON%20Semiconductor/view-part/431052/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(MSOP-10_MS)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LT1945IMS%23PBF/Analog%20Devices/view-part/4832995/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Linear Technology/Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LT1945IMS#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LT1945IMS#PBF/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LT1945IMS%23PBF/Analog%20Devices/view-part/4832995/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net5V_1 Pin=5V-1
+Added Pin To Net: NetName=GND Pin=5V-2
+Added Pin To Net: NetName=Net12V_Fused_1 Pin=12V_Fused-1
+Added Pin To Net: NetName=GND Pin=12V_Fused-2
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=12V_Fused Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC_5V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=12V_Fused Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC9_1 Pin=C11-1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=VCC_5V Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=VCC_5V Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VCC_5V Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=NetC22_1 Pin=C22-1
+Added Pin To Net: NetName=VOUT1 Pin=C22-2
+Added Pin To Net: NetName=NetC23_1 Pin=C23-1
+Added Pin To Net: NetName=NetC23_2 Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=VOUT1 Pin=C24-2
+Added Pin To Net: NetName=NetC25_1 Pin=C25-1
+Added Pin To Net: NetName=VOUT2 Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=VOUT2 Pin=C26-2
+Added Pin To Net: NetName=NetCanRX_1 Pin=CanRX-1
+Added Pin To Net: NetName=GND Pin=CanRX-2
+Added Pin To Net: NetName=NetCanTX_1 Pin=CanTX-1
+Added Pin To Net: NetName=GND Pin=CanTX-2
+Added Pin To Net: NetName=VOUT1 Pin=D3-A
+Added Pin To Net: NetName=NetC23_2 Pin=D3-C
+Added Pin To Net: NetName=GND Pin=D8-1
+Added Pin To Net: NetName=12V_Fused Pin=D8-2
+Added Pin To Net: NetName=NetF1_1 Pin=F1-1
+Added Pin To Net: NetName=12V_Fused Pin=F1-2
+Added Pin To Net: NetName=NetHRTBT_1 Pin=HRTBT-1
+Added Pin To Net: NetName=GND Pin=HRTBT-2
+Added Pin To Net: NetName=VCC_3.3V Pin=J1-1
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=SWCLK Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=SWO Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=RESET Pin=J1-10
+Added Pin To Net: NetName=NetF1_1 Pin=J4-1
+Added Pin To Net: NetName=SHUTDOWN Pin=J4-2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Pin To Net: NetName=ChargeSignal_FromBuff Pin=J4-5
+Added Pin To Net: NetName=IP_Out_Connector Pin=J5-1
+Added Pin To Net: NetName=IM_Out_Connector Pin=J5-2
+Added Pin To Net: NetName=IP Pin=PulseTransformer-1
+Added Pin To Net: NetName=IM Pin=PulseTransformer-2
+Added Pin To Net: NetName=IM_Out_Connector Pin=PulseTransformer-3
+Added Pin To Net: NetName=IP_Out_Connector Pin=PulseTransformer-4
+Added Pin To Net: NetName=NetHRTBT_1 Pin=R1-1
+Added Pin To Net: NetName=HEARTBEAT Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=SHUTDOWN Pin=R2-2
+Added Pin To Net: NetName=NetCanRX_1 Pin=R3-1
+Added Pin To Net: NetName=CanRx_FromBuff Pin=R3-2
+Added Pin To Net: NetName=NetCanTX_1 Pin=R4-1
+Added Pin To Net: NetName=CanTx_FromBuff Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=RESET_FromBuff Pin=R5-2
+Added Pin To Net: NetName=Net5V_1 Pin=R6-1
+Added Pin To Net: NetName=VCC_5V Pin=R6-2
+Added Pin To Net: NetName=Net12V_Fused_1 Pin=R7-1
+Added Pin To Net: NetName=12V_Fused Pin=R7-2
+Added Pin To Net: NetName=SWDIO Pin=R8-1
+Added Pin To Net: NetName=VCC_3.3V Pin=R8-2
+Added Pin To Net: NetName=SWCLK Pin=R9-1
+Added Pin To Net: NetName=VCC_3.3V Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=SWCLK Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=NetC6_2 Pin=R12-2
+Added Pin To Net: NetName=NetC7_2 Pin=R13-1
+Added Pin To Net: NetName=NetC6_2 Pin=R13-2
+Added Pin To Net: NetName=NetC9_1 Pin=R14-1
+Added Pin To Net: NetName=NetC10_2 Pin=R14-2
+Added Pin To Net: NetName=NetC11_2 Pin=R15-1
+Added Pin To Net: NetName=NetC10_2 Pin=R15-2
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=VCC_5V Pin=R16-2
+Added Pin To Net: NetName=IM Pin=R17-1
+Added Pin To Net: NetName=IP Pin=R17-2
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=NetR18_2 Pin=R19-2
+Added Pin To Net: NetName=MISO Pin=R20-1
+Added Pin To Net: NetName=VCC_3.3V Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=NetR22_2 Pin=R22-2
+Added Pin To Net: NetName=NetJ4_4 Pin=R23-1
+Added Pin To Net: NetName=NetJ4_3 Pin=R23-2
+Added Pin To Net: NetName=NetC22_1 Pin=R24-1
+Added Pin To Net: NetName=VOUT1 Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Pin To Net: NetName=NetC22_1 Pin=R25-2
+Added Pin To Net: NetName=NetC25_1 Pin=R26-1
+Added Pin To Net: NetName=VOUT2 Pin=R26-2
+Added Pin To Net: NetName=GND Pin=R27-1
+Added Pin To Net: NetName=NetC25_1 Pin=R27-2
+Added Pin To Net: NetName=NetR5_1 Pin=RESET-1
+Added Pin To Net: NetName=GND Pin=RESET-2
+Added Pin To Net: NetName=NetR2_1 Pin=SHUTDOWN-1
+Added Pin To Net: NetName=GND Pin=SHUTDOWN-2
+Added Pin To Net: NetName=RESET Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=VCC_3.3V Pin=U1-13
+Added Pin To Net: NetName=NetC11_2 Pin=U1-14
+Added Pin To Net: NetName=NetC7_2 Pin=U1-15
+Added Pin To Net: NetName=HEARTBEAT_BUFF Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=VCC_3.3V Pin=U1-19
+Added Pin To Net: NetName=SHUTDOWN_BUFF Pin=U1-23
+Added Pin To Net: NetName=GND Pin=U1-31
+Added Pin To Net: NetName=VCC_3.3V Pin=U1-32
+Added Pin To Net: NetName=NetU1_33 Pin=U1-33
+Added Pin To Net: NetName=NetU1_34 Pin=U1-34
+Added Pin To Net: NetName=MISO Pin=U1-35
+Added Pin To Net: NetName=NetU1_36 Pin=U1-36
+Added Pin To Net: NetName=ChargeSignal Pin=U1-41
+Added Pin To Net: NetName=CanTx Pin=U1-44
+Added Pin To Net: NetName=CanRx Pin=U1-45
+Added Pin To Net: NetName=SWDIO Pin=U1-46
+Added Pin To Net: NetName=GND Pin=U1-47
+Added Pin To Net: NetName=VCC_3.3V Pin=U1-48
+Added Pin To Net: NetName=SWCLK Pin=U1-49
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=VCC_3.3V Pin=U1-64
+Added Pin To Net: NetName=CanRx Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VCC_5V Pin=U2-3
+Added Pin To Net: NetName=CanTx Pin=U2-4
+Added Pin To Net: NetName=NetR22_2 Pin=U2-5
+Added Pin To Net: NetName=NetJ4_4 Pin=U2-6
+Added Pin To Net: NetName=NetJ4_3 Pin=U2-7
+Added Pin To Net: NetName=NetR21_2 Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=VCC_3.3V Pin=U5-2
+Added Pin To Net: NetName=12V_Fused Pin=U5-3
+Added Pin To Net: NetName=12V_Fused Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=VCC_5V Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=HEARTBEAT_BUFF Pin=U7-2
+Added Pin To Net: NetName=SHUTDOWN_BUFF Pin=U7-3
+Added Pin To Net: NetName=CanRx Pin=U7-4
+Added Pin To Net: NetName=CanTx Pin=U7-5
+Added Pin To Net: NetName=RESET Pin=U7-6
+Added Pin To Net: NetName=ChargeSignal Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=GND Pin=U7-10
+Added Pin To Net: NetName=ChargeSignal_FromBuff Pin=U7-13
+Added Pin To Net: NetName=RESET_FromBuff Pin=U7-14
+Added Pin To Net: NetName=CanTx_FromBuff Pin=U7-15
+Added Pin To Net: NetName=CanRx_FromBuff Pin=U7-16
+Added Pin To Net: NetName=SHUTDOWN Pin=U7-17
+Added Pin To Net: NetName=HEARTBEAT Pin=U7-18
+Added Pin To Net: NetName=GND Pin=U7-19
+Added Pin To Net: NetName=VCC_5V Pin=U7-20
+Added Pin To Net: NetName=NetC22_1 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=NetC25_1 Pin=U?-5
+Added Pin To Net: NetName=NetD2_A Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=NetC23_1 Pin=U?-10
+Added Member To Class: ClassName=POWER Member=Component 5V Value?
+Added Member To Class: ClassName=POWER Member=Component 12V_Fused Value?
+Added Member To Class: ClassName=POWER Member=Component C1 10uF
+Added Member To Class: ClassName=POWER Member=Component C2 10uF
+Added Member To Class: ClassName=POWER Member=Component C3 10uF
+Added Member To Class: ClassName=POWER Member=Component C4 10uF
+Added Member To Class: ClassName=CONNECTORS Member=Component C5 500nF
+Added Member To Class: ClassName=CONNECTORS Member=Component C6 47nF
+Added Member To Class: ClassName=CONNECTORS Member=Component C7 10uF
+Added Member To Class: ClassName=CONNECTORS Member=Component C9 47nF
+Added Member To Class: ClassName=CONNECTORS Member=Component C10 47nF
+Added Member To Class: ClassName=CONNECTORS Member=Component C11 10uF
+Added Member To Class: ClassName=PROCESSOR Member=Component C12 100nF
+Added Member To Class: ClassName=PROCESSOR Member=Component C13 100nF
+Added Member To Class: ClassName=PROCESSOR Member=Component C14 100nF
+Added Member To Class: ClassName=PROCESSOR Member=Component C15 100nF
+Added Member To Class: ClassName=PROCESSOR Member=Component C16 100nF
+Added Member To Class: ClassName=PROCESSOR Member=Component C17 100nF
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component C18 100nF
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component C19 100nF
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component C20 100nF
+Added Member To Class: ClassName=BOOST Member=Component C21 4.7uF
+Added Member To Class: ClassName=BOOST Member=Component C22 100pF
+Added Member To Class: ClassName=BOOST Member=Component C23 1uF
+Added Member To Class: ClassName=BOOST Member=Component C24 1uF
+Added Member To Class: ClassName=BOOST Member=Component C25 4.7pF
+Added Member To Class: ClassName=BOOST Member=Component C26 .1uF
+Added Member To Class: ClassName=POWER Member=Component CanRX Value?
+Added Member To Class: ClassName=POWER Member=Component CanTX Value?
+Added Member To Class: ClassName=BOOST Member=Component D3 1N5817
+Added Member To Class: ClassName=POWER Member=Component D8 D Zener
+Added Member To Class: ClassName=POWER Member=Component F1 Fuse
+Added Member To Class: ClassName=POWER Member=Component HRTBT Value?
+Added Member To Class: ClassName=CONNECTORS Member=Component J1 SAMTEC-FTSH-105-01-X-D
+Added Member To Class: ClassName=CONNECTORS Member=Component J4 30700-5080
+Added Member To Class: ClassName=CONNECTORS Member=Component J5 43650-0209
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component PulseTransformer PE-68386NLT
+Added Member To Class: ClassName=POWER Member=Component R1 Value?
+Added Member To Class: ClassName=POWER Member=Component R2 Value?
+Added Member To Class: ClassName=POWER Member=Component R3 Value?
+Added Member To Class: ClassName=POWER Member=Component R4 Value?
+Added Member To Class: ClassName=POWER Member=Component R5 Value?
+Added Member To Class: ClassName=POWER Member=Component R6 Value?
+Added Member To Class: ClassName=POWER Member=Component R7 Value?
+Added Member To Class: ClassName=CONNECTORS Member=Component R8 100k
+Added Member To Class: ClassName=CONNECTORS Member=Component R9 100k
+Added Member To Class: ClassName=CONNECTORS Member=Component R11 100k
+Added Member To Class: ClassName=CONNECTORS Member=Component R12 12k
+Added Member To Class: ClassName=CONNECTORS Member=Component R13 160r
+Added Member To Class: ClassName=CONNECTORS Member=Component R14 12k
+Added Member To Class: ClassName=CONNECTORS Member=Component R15 160r
+Added Member To Class: ClassName=CONNECTORS Member=Component R16 160r
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R17 120r
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R18 806r
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R19 1.21k 5%
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R20 2k
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R21 10k
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R22 120r
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R23 120r
+Added Member To Class: ClassName=BOOST Member=Component R24 1M
+Added Member To Class: ClassName=BOOST Member=Component R25 105k
+Added Member To Class: ClassName=BOOST Member=Component R26 560k
+Added Member To Class: ClassName=BOOST Member=Component R27 50k
+Added Member To Class: ClassName=POWER Member=Component RESET Value?
+Added Member To Class: ClassName=POWER Member=Component SHUTDOWN Value?
+Added Member To Class: ClassName=PROCESSOR Member=Component U1 STM32F091RCT6
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component U2 MCP2561-E/SN
+Added Member To Class: ClassName=POWER Member=Component U5 LM1117T-3.3
+Added Member To Class: ClassName=POWER Member=Component U6 VXO7805-1000
+Added Member To Class: ClassName=PROCESSOR Member=Component U7 74ACT541SC
+Added Member To Class: ClassName=BOOST Member=Component U? LT1945IMSPBF
+Added Room: Name=BOOST
+Added Room: Name=COMMUNICATIONS
+Added Room: Name=CONNECTORS
+Added Room: Name=POWER
+Added Room: Name=PROCESSOR

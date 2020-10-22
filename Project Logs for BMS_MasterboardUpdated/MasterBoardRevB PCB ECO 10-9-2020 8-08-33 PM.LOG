@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=12V_Fused Pin=C9-2
+Change Component Footprint: Designator=D8 Old Footprint=DIODE-0.7 New Footprint=Diode, TH
+Added Component: Designator=D3(DO41-1)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N5817"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-41 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N5817/STMicroelectronics/view-part/2770372/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(61300411121)
+Added Component: Designator=U3(LT-MS-16_M)
+Added Component: Designator=U4(TECO-FSM4JSMA_V)
+Added Component: Designator=U?(MSOP-10_MS)
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LT1945IMS%23PBF/Analog%20Devices/view-part/4832995/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Linear Technology/Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LT1945IMS#PBF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/LT1945IMS#PBF/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LT1945IMS%23PBF/Analog%20Devices/view-part/4832995/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V_Fused Pin=C1-2
+Added Pin To Net: NetName=12V_Fused Pin=C3-2
+Added Pin To Net: NetName=VOUT1 Pin=D3-A
+Added Pin To Net: NetName=NetC23_2 Pin=D3-C
+Added Pin To Net: NetName=12V_Fused Pin=D8-2
+Added Pin To Net: NetName=12V_Fused Pin=F1-2
+Added Pin To Net: NetName=12V_Fused Pin=R7-2
+Added Pin To Net: NetName=12V_Fused Pin=U5-3
+Added Pin To Net: NetName=12V_Fused Pin=U6-1
+Added Pin To Net: NetName=NetC22_1 Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=NetC25_1 Pin=U?-5
+Added Pin To Net: NetName=NetD2_A Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=NetC23_1 Pin=U?-10
+Added Member To Class: ClassName=BOOST Member=Component D3 1N5817
+Added Member To Class: ClassName=BOOST Member=Component U? LT1945IMSPBF
