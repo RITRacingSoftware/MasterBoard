@@ -1,0 +1,84 @@
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=SWCLK Pin=R9-1
+Removed Pin From Net: NetName=VCC_3.3V Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=R12-1
+Removed Pin From Net: NetName=GND Pin=R25-1
+Removed Pin From Net: NetName=GND Pin=R27-1
+Removed Pin From Net: NetName=NetC25_1 Pin=R27-2
+Removed Pin From Net: NetName=GND Pin=U9-3
+Removed Pin From Net: NetName=NetC25_1 Pin=U9-5
+Removed Pin From Net: NetName=GND Pin=U9-7
+Removed Pin From Net: NetName=GND Pin=U9-9
+Removed Member From Class: ClassName=BOOST Member=C26
+Removed Member From Class: ClassName=BOOST Member=D1
+Removed Member From Class: ClassName=BOOST Member=D2
+Removed Member From Class: ClassName=BOOST Member=D3
+Removed Member From Class: ClassName=BOOST Member=L1
+Removed Member From Class: ClassName=BOOST Member=L2
+Removed Member From Class: ClassName=BOOST Member=U9
+Change Component Footprint: Designator=R24 Old Footprint=RESAD640W45L370D200 - duplicate New Footprint=Resistor, TH
+Change Component Footprint: Designator=R25 Old Footprint=RESAD640W45L370D200 - duplicate New Footprint=Resistor, TH
+Change Component Footprint: Designator=R26 Old Footprint=RESAD640W45L370D200 - duplicate New Footprint=Resistor, TH
+Change Component Footprint: Designator=R27 Old Footprint=RESAD640W45L370D200 - duplicate New Footprint=Resistor, TH
+Change Component Comment : Designator=R24 Old Comment=1M New Comment=160r
+Change Component Comment : Designator=C23 Old Comment=1uF New Comment=47nF
+Change Component Comment : Designator=C24 Old Comment=1uF New Comment=47nF
+Change Component Comment : Designator=C25 Old Comment=4.7pF New Comment=47nF
+Change Component Comment : Designator=C21 Old Comment=4.7uF New Comment=47uF
+Change Component Comment : Designator=R27 Old Comment=50k New Comment=12K
+Change Component Comment : Designator=C22 Old Comment=100pF New Comment=47nF
+Change Component Comment : Designator=R25 Old Comment=105k New Comment=12K
+Change Component Comment : Designator=R26 Old Comment=560k New Comment=160r
+Change Component Comment : Designator=C12 Old Comment=Value? New Comment=100nF
+Change Component Comment : Designator=C13 Old Comment=Value? New Comment=100nF
+Change Component Comment : Designator=C14 Old Comment=Value? New Comment=100nF
+Change Component Comment : Designator=C15 Old Comment=Value? New Comment=100nF
+Change Component Comment : Designator=C16 Old Comment=Value? New Comment=100nF
+Change Component Comment : Designator=C17 Old Comment=Value? New Comment=100nF
+Added Pin To Net: NetName=VCC_5V Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=VCC_5V Pin=J2-2
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=CHANNEL1 Pin=C24-2
+Added Pin To Net: NetName=CHANNEL1 Pin=C25-2
+Added Pin To Net: NetName=CHANNEL1 Pin=R27-1
+Added Pin To Net: NetName=CHANNEL1 Pin=U1-14
+Added Net: Name=CHANNEL1
+Added Pin To Net: NetName=CHANNEL2 Pin=C23-2
+Added Pin To Net: NetName=CHANNEL2 Pin=R24-1
+Added Pin To Net: NetName=CHANNEL2 Pin=U1-15
+Added Net: Name=CHANNEL2
+Added Pin To Net: NetName=NetC22_2 Pin=C22-2
+Added Pin To Net: NetName=NetC22_2 Pin=J2-1
+Added Pin To Net: NetName=NetC22_2 Pin=R24-2
+Added Pin To Net: NetName=NetC22_2 Pin=R25-1
+Added Net: Name=NetC22_2
+Added Pin To Net: NetName=NetC24_1 Pin=C24-1
+Added Pin To Net: NetName=NetC24_1 Pin=J2-4
+Added Pin To Net: NetName=NetC24_1 Pin=R26-2
+Added Pin To Net: NetName=NetC24_1 Pin=R27-2
+Added Net: Name=NetC24_1
+Change Class Name : Old Net Name=BOOST New Net Name=CONNECTORS
+Added Member To Class: ClassName=POWER Member=Component C1 10uF
+Added Member To Class: ClassName=POWER Member=Component C2 10uF
+Added Member To Class: ClassName=POWER Member=Component C3 10uF
+Added Member To Class: ClassName=POWER Member=Component C4 10uF
+Added Member To Class: ClassName=CONNECTORS Member=Component C5 500nF
+Added Member To Class: ClassName=POWER Member=Component D8 D Zener
+Added Member To Class: ClassName=POWER Member=Component F1 Fuse
+Added Member To Class: ClassName=CONNECTORS Member=Component J1 SAMTEC-FTSH-105-01-X-D
+Added Member To Class: ClassName=CONNECTORS Member=Component J2 4pin Header
+Added Member To Class: ClassName=CONNECTORS Member=Component J4 30700-5080
+Added Member To Class: ClassName=CONNECTORS Member=Component J5 43650-0209
+Added Member To Class: ClassName=CONNECTORS Member=Component R8 100k
+Added Member To Class: ClassName=CONNECTORS Member=Component R11 100k
+Added Member To Class: ClassName=CONNECTORS Member=Component R16 160r
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R20 2k
+Added Member To Class: ClassName=CONNECTORS Member=Component U4 Reset Button
+Added Member To Class: ClassName=POWER Member=Component U5 LM1117T-3.3
+Added Member To Class: ClassName=POWER Member=Component U6 VXO7805-1000
