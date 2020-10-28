@@ -1,0 +1,16 @@
+Added Component: Designator=J3(30700-5080)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/molex/products/datasheet.jsp?part=active/0307004081_PCB_HEADERS.xml"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "30700-5080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Connectors"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_1 Pin=J3-1
+Added Pin To Net: NetName=SHUTDOWN Pin=J3-2
+Added Pin To Net: NetName=CANH Pin=J3-3
+Added Pin To Net: NetName=CANL Pin=J3-4
+Added Pin To Net: NetName=ChargeSignal_FromBuff Pin=J3-5
+Change Room Name: Old Name=CONNECTORS_3 New Name=POWER
+Change Room Scope: Old Scope=InComponentClass('CONNECTORS 3') New Scope=InComponentClass('POWER')
