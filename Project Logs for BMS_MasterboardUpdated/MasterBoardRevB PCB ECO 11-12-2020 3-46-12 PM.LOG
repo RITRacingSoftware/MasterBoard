@@ -1,0 +1,12 @@
+Added Component: Designator=Q1(TO-220-KCS0003B_40MIL-DRILL)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.diodes.com/assets/Datasheets/ZVN4424A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Diodes Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ZVN4424A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "09/27/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Transistors"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3.3V Pin=Q1-1
+Added Pin To Net: NetName=AIR_Open_Sig Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
