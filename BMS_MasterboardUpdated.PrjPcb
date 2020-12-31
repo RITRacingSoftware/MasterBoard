@@ -290,7 +290,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=STYWDGCX
 
 [Document16]
 DocumentPath=BMS_MasterboardUpdated2\MasterBoardRevA.PcbLib
@@ -307,7 +307,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FTCQNMTS
 
 [Document17]
 DocumentPath=BMS_MasterboardUpdated1\BMS_MasterboardUpdated.LibPkg
