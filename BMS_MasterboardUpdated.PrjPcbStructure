@@ -1,1 +1,4 @@
-Record=TopLevelDocument|FileName=COMMUNICATIONS.SchDoc
+Record=TopLevelDocument|FileName=COMMUNICATIONS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=COMMUNICATIONS.SchDoc|FileName=CONNECTORS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=COMMUNICATIONS.SchDoc|FileName=POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=COMMUNICATIONS.SchDoc|FileName=PROCESSOR.SchDoc|SheetNumber= 
