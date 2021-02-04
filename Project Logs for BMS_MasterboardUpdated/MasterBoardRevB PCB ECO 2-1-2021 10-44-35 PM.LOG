@@ -1,0 +1,4 @@
+Change Managed Component Library Link : Designator=D1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9FB69FB8-99C6-4592-BD09-F0D52CA630D1 Old RevisionGUID= New RevisionGUID=670A58AC-C53D-467C-A9E7-F81B87F5D6CA
+Change Managed Component Library Link : Designator=U4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9314FC84-7AC3-4651-A56F-A9336758150B Old RevisionGUID= New RevisionGUID=7E1FDC81-797E-48FD-B767-8612A940C398
+Change Room Name: Old Name=CONNECTORS_1 New Name=POWER
+Change Room Scope: Old Scope=InComponentClass('CONNECTORS 1') New Scope=InComponentClass('POWER')
