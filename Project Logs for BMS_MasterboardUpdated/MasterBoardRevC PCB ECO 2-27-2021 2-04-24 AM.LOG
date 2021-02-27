@@ -1,0 +1,280 @@
+Removed Pin From Net: NetName=VCC_5V Pin=C21-2
+Removed Pin From Net: NetName=VCC_5V Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=SHUTDOWN Pin=J3-7
+Removed Pin From Net: NetName=VCC_5V Pin=R16-2
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=R33-1
+Removed Pin From Net: NetName=CHANNEL1 Pin=R33-2
+Removed Pin From Net: NetName=CanRx Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=VCC_5V Pin=U2-3
+Removed Pin From Net: NetName=CanTx Pin=U2-4
+Removed Pin From Net: NetName=VCC_3.3V Pin=U2-5
+Removed Pin From Net: NetName=CANL Pin=U2-6
+Removed Pin From Net: NetName=CANH Pin=U2-7
+Removed Pin From Net: NetName=VCC_5V Pin=U3-7
+Removed Pin From Net: NetName=VCC_5V Pin=U3-8
+Removed Member From Class: ClassName=COMMUNICATIONS Member=R21
+Removed Member From Class: ClassName=CONNECTORS Member=R26
+Removed Member From Class: ClassName=CONNECTORS Member=R27
+Removed Member From Class: ClassName=CONNECTORS Member=R33
+Removed Member From Class: ClassName=COMMUNICATIONS Member=U2
+Change Component Footprint: Designator=R18 Old Footprint=RESAD640W45L370D200 - duplicate New Footprint=1/4W TH Resistor
+Change Component Footprint: Designator=R19 Old Footprint=RESAD640W45L370D200 - duplicate New Footprint=1/4W TH Resistor
+Change Component Footprint: Designator=R20 Old Footprint=RESAD640W45L370D200 - duplicate New Footprint=1/4W TH Resistor
+Change Component Comment : Designator=R19 Old Comment=1.21k 5% New Comment=1.21k .1%
+Change Component Comment : Designator=C15 Old Comment=100nF New Comment=10nF
+Change Component Comment : Designator=C18 Old Comment=100nF New Comment=10nF
+Change Component Comment : Designator=C19 Old Comment=100nF New Comment=10nF
+Change Component Comment : Designator=R24 Old Comment=160r New Comment=1.60k
+Change Component Comment : Designator=R26 Old Comment=160r New Comment=1.60K
+Change Component Comment : Designator=R16 Old Comment=160r New Comment=10k
+Change Component Comment : Designator=R32 Old Comment=309r New Comment=3.09K
+Change Component Comment : Designator=R18 Old Comment=806r New Comment=806r .1%
+Change Component Comment : Designator=F1 Old Comment=Fuse New Comment=2A
+Change Component Comment : Designator=5V Old Comment=Value? New Comment=5V
+Change Component Comment : Designator=12V_Fused Old Comment=Value? New Comment=12V_FUSED
+Change Component Comment : Designator=CanRX Old Comment=Value? New Comment=CANRX
+Change Component Comment : Designator=CanTX Old Comment=Value? New Comment=CANTX
+Change Component Comment : Designator=HRTBT Old Comment=Value? New Comment=HRTBT
+Change Component Comment : Designator=RESET Old Comment=Value? New Comment=RESET
+Change Component Comment : Designator=SHUTDOWN Old Comment=Value? New Comment=SHUTDOWN
+Change Component Designator: OldDesignator=5V NewDesignator=D7
+Change Component Designator: OldDesignator=12V_Fused NewDesignator=D8
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C8
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C19
+Change Component Designator: OldDesignator=C17 NewDesignator=C20
+Change Component Designator: OldDesignator=C18 NewDesignator=C21
+Change Component Designator: OldDesignator=C19 NewDesignator=C22
+Change Component Designator: OldDesignator=C20 NewDesignator=C23
+Change Component Designator: OldDesignator=C21 NewDesignator=C9
+Change Component Designator: OldDesignator=C22 NewDesignator=C10
+Change Component Designator: OldDesignator=C23 NewDesignator=C11
+Change Component Designator: OldDesignator=C24 NewDesignator=C7
+Change Component Designator: OldDesignator=C25 NewDesignator=C6
+Change Component Designator: OldDesignator=C26 NewDesignator=C24
+Change Component Designator: OldDesignator=C27 NewDesignator=C26
+Change Component Designator: OldDesignator=C28 NewDesignator=C25
+Change Component Designator: OldDesignator=CanRX NewDesignator=D4
+Change Component Designator: OldDesignator=CanTX NewDesignator=D5
+Change Component Designator: OldDesignator=HRTBT NewDesignator=D2
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=PulseTransformer NewDesignator=PulseTransformer1
+Change Component Designator: OldDesignator=R9 NewDesignator=R16
+Change Component Designator: OldDesignator=R11 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R18 NewDesignator=R21
+Change Component Designator: OldDesignator=R19 NewDesignator=R26
+Change Component Designator: OldDesignator=R20 NewDesignator=R27
+Change Component Designator: OldDesignator=R23 NewDesignator=R28
+Change Component Designator: OldDesignator=R24 NewDesignator=R15
+Change Component Designator: OldDesignator=R25 NewDesignator=R12
+Change Component Designator: OldDesignator=R26 NewDesignator=R11
+Change Component Designator: OldDesignator=R27 NewDesignator=R9
+Change Component Designator: OldDesignator=R28 NewDesignator=R30
+Change Component Designator: OldDesignator=R29 NewDesignator=R32
+Change Component Designator: OldDesignator=R30 NewDesignator=R29
+Change Component Designator: OldDesignator=R32 NewDesignator=R13
+Change Component Designator: OldDesignator=RESET NewDesignator=D6
+Change Component Designator: OldDesignator=SHUTDOWN NewDesignator=D3
+Change Component Designator: OldDesignator=U1 NewDesignator=U4
+Change Component Designator: OldDesignator=U3 NewDesignator=U6
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=U5 NewDesignator=U2
+Change Component Designator: OldDesignator=U6 NewDesignator=U1
+Change Component Designator: OldDesignator=U7 NewDesignator=U5
+Change Managed Component Library Link : Designator=D1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9FB69FB8-99C6-4592-BD09-F0D52CA630D1 Old RevisionGUID= New RevisionGUID=670A58AC-C53D-467C-A9E7-F81B87F5D6CA
+Change Managed Component Library Link : Designator=U3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=9314FC84-7AC3-4651-A56F-A9336758150B Old RevisionGUID= New RevisionGUID=7E1FDC81-797E-48FD-B767-8612A940C398
+Added Component: Designator=C3(CAPPRD200W50D550H1250)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C15(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C17(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C18(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R10(Resistor, TH)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC2013X60X35LL20T20)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/15196/getdatasheetpartid-499011-15196236.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "11/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Chip Resistor, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Coefficient"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC2013X60X35LL20T20)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/15196/getdatasheetpartid-499011-15196236.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "11/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Chip Resistor, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Coefficient"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RESC2013X60X35LL20T20)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/15196/getdatasheetpartid-499011-15196236.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "11/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Chip Resistor, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Coefficient"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RESC2013X60X35LL20T20)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/15196/getdatasheetpartid-499011-15196236.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "11/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Chip Resistor, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Coefficient"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RESC2013X60X35LL20T20)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/15196/getdatasheetpartid-499011-15196236.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "11/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Chip Resistor, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Coefficient"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RESC2013X60X35LL20T20)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/15196/getdatasheetpartid-499011-15196236.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "11/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung Electro-Mechanics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.samsungsem.com/global/index.jsp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Chip Resistor, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Power"; Value = "0.125W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size Code"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temp Coefficient"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance (%)"; Value = "±5%"; VariantName = "[No Variations]"
+Added Component: Designator=U7(NXP CAN Tranceiver)
+Added Pin To Net: NetName=12V_Fused Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=VCC_3.3V Pin=C18-2
+Added Pin To Net: NetName=SHUTDOWN Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-7
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=CHANNEL1 Pin=R10-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R17-2
+Added Pin To Net: NetName=VCC_3.3V Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=VCC_5V Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-2
+Added Pin To Net: NetName=VCC_5V Pin=R24-2
+Added Pin To Net: NetName=GND Pin=R25-2
+Added Pin To Net: NetName=CanTx Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=VCC_5V Pin=U7-3
+Added Pin To Net: NetName=CanRx Pin=U7-4
+Added Pin To Net: NetName=VCC_3.3V Pin=U7-5
+Added Pin To Net: NetName=CANL Pin=U7-6
+Added Pin To Net: NetName=CANH Pin=U7-7
+Added Pin To Net: NetName=GND Pin=U7-8
+Change Net Name : Old Net Name=Net5V_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=Net12V_Fused_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetC22_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC24_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC27_1 New Net Name=NetC26_1
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC25_1
+Change Net Name : Old Net Name=NetCanRX_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetCanTX_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetHRTBT_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR18_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetU1_17 New Net Name=NetU4_17
+Change Net Name : Old Net Name=NetU1_20 New Net Name=NetU4_20
+Change Net Name : Old Net Name=NetU1_33 New Net Name=NetU4_33
+Change Net Name : Old Net Name=NetU1_34 New Net Name=NetU4_34
+Change Net Name : Old Net Name=NetU1_36 New Net Name=NetU4_36
+Added Pin To Net: NetName=NetR18_1 Pin=R19-1
+Added Pin To Net: NetName=NetR18_1 Pin=R20-2
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR18_2 Pin=U4-60
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR22_1 Pin=R22-1
+Added Pin To Net: NetName=NetR22_1 Pin=R23-1
+Added Pin To Net: NetName=NetR22_1 Pin=U6-7
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR24_1 Pin=R24-1
+Added Pin To Net: NetName=NetR24_1 Pin=R25-1
+Added Pin To Net: NetName=NetR24_1 Pin=U6-8
+Added Net: Name=NetR24_1
+Added Member To Class: ClassName=POWER Member=Component C5 10uF
+Added Member To Class: ClassName=PROCESSOR Member=Component C18 4.7uF
+Added Member To Class: ClassName=PROCESSOR Member=Component C19 100nF
+Added Member To Class: ClassName=PROCESSOR Member=Component C20 100nF
+Added Member To Class: ClassName=CONNECTORS Member=Component R10 3.09K
+Added Member To Class: ClassName=CONNECTORS Member=Component R14 100k
+Added Member To Class: ClassName=CONNECTORS Member=Component R17 10k
+Added Member To Class: ClassName=PROCESSOR Member=Component R19 0805 jumper
+Added Member To Class: ClassName=PROCESSOR Member=Component R20 0805 jumper
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R22 0805 jumper
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R24 0805 jumper
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R25 0805 jumper
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R32 300r
+Added Member To Class: ClassName=PROCESSOR Member=Component U4 STM32F091RCT6
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component U7 NXP CAN Transceiver
+Added Room: Name=COMMUNICATIONS
+Added Room: Name=CONNECTORS
+Added Room: Name=POWER
+Added Room: Name=PROCESSOR

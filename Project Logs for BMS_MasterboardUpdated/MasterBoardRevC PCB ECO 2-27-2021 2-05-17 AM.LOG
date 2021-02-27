@@ -1,0 +1,57 @@
+Removed Member From Class: ClassName=COMMUNICATIONS Member=C7
+Removed Member From Class: ClassName=POWER Member=C8
+Removed Member From Class: ClassName=COMMUNICATIONS Member=C9
+Removed Member From Class: ClassName=PROCESSOR Member=C9
+Removed Member From Class: ClassName=COMMUNICATIONS Member=C10
+Removed Member From Class: ClassName=PROCESSOR Member=C10
+Removed Member From Class: ClassName=COMMUNICATIONS Member=C11
+Removed Member From Class: ClassName=PROCESSOR Member=C11
+Removed Member From Class: ClassName=COMMUNICATIONS Member=R9
+Removed Member From Class: ClassName=PROCESSOR Member=R9
+Removed Member From Class: ClassName=COMMUNICATIONS Member=R12
+Removed Member From Class: ClassName=COMMUNICATIONS Member=R13
+Removed Member From Class: ClassName=COMMUNICATIONS Member=R15
+Removed Member From Class: ClassName=PROCESSOR Member=R26
+Removed Member From Class: ClassName=COMMUNICATIONS Member=U4
+Removed Member From Class: ClassName=CONNECTORS Member=U4
+Removed Member From Class: ClassName=POWER Member=U4
+Removed Member From Class: ClassName=COMMUNICATIONS Member=U5
+Added Component: Designator=R18(1/4W TH Resistor)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Member To Class: ClassName=POWER Member=Component C2 10uF
+Added Member To Class: ClassName=POWER Member=Component C3 10uF
+Added Member To Class: ClassName=POWER Member=Component C4 10uF
+Added Member To Class: ClassName=POWER Member=Component C5 10uF
+Added Member To Class: ClassName=PROCESSOR Member=Component C15 4.7uF
+Added Member To Class: ClassName=PROCESSOR Member=Component C17 1uF
+Added Member To Class: ClassName=PROCESSOR Member=Component C18 4.7uF
+Added Member To Class: ClassName=PROCESSOR Member=Component C19 100nF
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component C21 10nF
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component C22 10nF
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component C23 100nF
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component C24 100nF
+Added Member To Class: ClassName=CONNECTORS Member=Component R9 12K
+Added Member To Class: ClassName=CONNECTORS Member=Component R11 1.60K
+Added Member To Class: ClassName=CONNECTORS Member=Component R16 10k
+Added Member To Class: ClassName=PROCESSOR Member=Component R18 2k
+Added Member To Class: ClassName=PROCESSOR Member=Component R19 0805 jumper
+Added Member To Class: ClassName=PROCESSOR Member=Component R20 0805 jumper
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R21 806r .1%
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R23 0805 jumper
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R24 0805 jumper
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R25 0805 jumper
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R27 2k
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R28 120r
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R30 300r
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component R32 300r
+Added Member To Class: ClassName=POWER Member=Component U1 VXO7805-1000
+Added Member To Class: ClassName=POWER Member=Component U2 LM1117T-3.3
+Added Member To Class: ClassName=CONNECTORS Member=Component U3 Reset Button
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component U6 LTC6820IMS#TRPBF
+Added Member To Class: ClassName=COMMUNICATIONS Member=Component U7 NXP CAN Transceiver
