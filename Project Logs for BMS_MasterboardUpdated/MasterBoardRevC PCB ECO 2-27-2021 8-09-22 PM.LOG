@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetJ3_5 Pin=U4-41
+Added Component: Designator=R335(1/4W TH Resistor)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ3_5 Pin=R335-2
+Added Member To Class: ClassName=CONNECTORS Member=Component R335 160r

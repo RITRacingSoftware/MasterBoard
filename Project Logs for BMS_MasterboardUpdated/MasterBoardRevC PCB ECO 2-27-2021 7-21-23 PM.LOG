@@ -1,0 +1,24 @@
+Added Component: Designator=Q2(SOT23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "See Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SSM3K329R,LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "09/27/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Transistors"; VariantName = "[No Variations]"
+Added Component: Designator=R33(1/4W TH Resistor)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Charging Pin=Q2-2
+Added Pin To Net: NetName=VCC_3.3V Pin=Q2-3
+Added Pin To Net: NetName=NetJ3_8 Pin=R33-2
+Added Member To Class: ClassName=CONNECTORS Member=Component Q2 SSM3K329R,LF
+Added Member To Class: ClassName=CONNECTORS Member=Component R33 160r
+Added Room: Name=COMMUNICATIONS
+Added Room: Name=CONNECTORS
+Added Room: Name=POWER
+Added Room: Name=PROCESSOR

@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=VCC_3.3V Pin=U2-2
+Removed Pin From Net: NetName=12V_Fused Pin=U2-3
+Removed Member From Class: ClassName=POWER Member=U2
+Added Component: Designator=U?(TO254P1054X470X1955-3)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=22275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "https://www.mouser.com/ProductDetail/Texas-Instruments/LM1117T-33-NOPB?qs=X1J7HmVL2ZF7RIQB6O0mNg%3D%3D&gclid=Cj0KCQjwvvj5BRDkARIsAGD9vlJnD1MNOYBTPv7FHDAskkwDQ_PuLBSV-edvQAne3qvGjGEuZX3qJSwaAtIgEALw_wcB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=22275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=22275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM1117T-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM1117T-3.3/NOPB/Texas%20Instruments/view-part/22275/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=22275"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=VCC_3.3V Pin=U?-2
+Added Pin To Net: NetName=12V_Fused Pin=U?-3
+Added Member To Class: ClassName=POWER Member=Component U? LM1117T-3.3
+Added Room: Name=COMMUNICATIONS
+Added Room: Name=CONNECTORS
+Added Room: Name=POWER
+Added Room: Name=PROCESSOR

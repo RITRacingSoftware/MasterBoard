@@ -1,0 +1,66 @@
+Removed Pin From Net: NetName=Charging Pin=J3-8
+Removed Pin From Net: NetName=VCC_3.3V Pin=Q1-1
+Removed Pin From Net: NetName=AIR_Open_Sig Pin=Q1-2
+Removed Pin From Net: NetName=AIRS_Signal_NMOS Pin=Q1-3
+Change Component Footprint: Designator=Q1 Old Footprint=TO-220-KCS0003B_40MIL-DRILL New Footprint=SOT23-3
+Change Component Comment : Designator=C6 Old Comment=47nF New Comment=0.68mF
+Change Component Comment : Designator=C7 Old Comment=47nF New Comment=0.68mF
+Change Component Comment : Designator=C10 Old Comment=47nF New Comment=0.68mF
+Change Component Comment : Designator=C11 Old Comment=47nF New Comment=0.68mF
+Change Component Comment : Designator=Q1 Old Comment=ZVN4424A New Comment=SSM3K329R,LF
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "TO-220-KCS0003B_40MIL-DRILL"; UniqueID = "\PDCTUPGY" ("\PDCTUPGY")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "See Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Toshiba"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SSM3K329R,LF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "09/27/2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Transistors"; VariantName = "[No Variations]"
+Added Component: Designator=C27(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=C28(Cap, 5mm TH, Ceramic)
+Add component (AddParameter): Name = "Published"; Value = "22Oct2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Passives"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value?"; VariantName = "[No Variations]"
+Added Component: Designator=Crystal(CrystalOscillator)
+Added Component: Designator=Q2(SOT23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "See Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Toshiba"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SSM3K329R,LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "09/27/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "T.Tallo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TargetLibrary"; Value = "RITRacing-Transistors"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=AIR_Open_Sig Pin=Q1-1
+Added Pin To Net: NetName=AIRS_Signal_NMOS Pin=Q1-2
+Added Pin To Net: NetName=VCC_3.3V Pin=Q1-3
+Added Pin To Net: NetName=Charging Pin=Q2-2
+Added Pin To Net: NetName=VCC_3.3V Pin=Q2-3
+Added Pin To Net: NetName=NetJ3_8 Pin=J3-8
+Added Net: Name=NetJ3_8
+Added Pin To Net: NetName=OSC_IN Pin=C27-2
+Added Pin To Net: NetName=OSC_IN Pin=Crystal-2
+Added Pin To Net: NetName=OSC_IN Pin=U4-5
+Added Net: Name=OSC_IN
+Added Pin To Net: NetName=OSC_OUT Pin=C28-2
+Added Pin To Net: NetName=OSC_OUT Pin=Crystal-1
+Added Pin To Net: NetName=OSC_OUT Pin=U4-6
+Added Net: Name=OSC_OUT
+Added Member To Class: ClassName=PROCESSOR Member=Component C27 18pF
+Added Member To Class: ClassName=PROCESSOR Member=Component C28 18pF
+Added Member To Class: ClassName=PROCESSOR Member=Component Crystal 48MHz
+Added Member To Class: ClassName=CONNECTORS Member=Component Q2 SSM3K329R,LF
+Added Room: Name=COMMUNICATIONS
+Added Room: Name=CONNECTORS
+Added Room: Name=POWER
+Added Room: Name=PROCESSOR

@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=U5-7
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=Charging
+Added Pin To Net: NetName=NetJ3_5 Pin=J3-5
+Added Pin To Net: NetName=NetJ3_5 Pin=U4-41
+Added Net: Name=NetJ3_5
+Added Room: Name=COMMUNICATIONS
+Added Room: Name=CONNECTORS
+Added Room: Name=POWER
+Added Room: Name=PROCESSOR

@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=ChargeSignal Pin=R35-1
+Added Pin To Net: NetName=ChargeSignal Pin=U4-41
+Added Net: Name=ChargeSignal
+Added Room: Name=COMMUNICATIONS
+Added Room: Name=CONNECTORS
+Added Room: Name=POWER
+Added Room: Name=PROCESSOR
