@@ -311,59 +311,12 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUXYYKCV
 
-[Document17]
-DocumentPath=D:\Bryan\Desktop\RIT Racing Altium Libraries-20200624T010502Z-001\RIT Racing Altium Libraries\LED_s.LibPkg
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
-DocumentPath=D:\Bryan\Desktop\RIT Racing Altium Libraries-20200624T010502Z-001\RIT Racing Altium Libraries\Passives.LibPkg
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
-DocumentPath=D:\Bryan\Desktop\RIT Racing Altium Libraries-20200624T010502Z-001\RIT Racing Altium Libraries\Transistors.LibPkg
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for BMS_MasterboardUpdated\Design Rule Check - MasterBoardRevB.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for BMS_MasterboardUpdated\Design Rule Check - MasterBoardRevC.html
 DItemRevisionGUID=
 
 [Configuration1]
