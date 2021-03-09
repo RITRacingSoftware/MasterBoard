@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [MasterBoardRevB.PcbDoc]
+   Generated File[MasterBoardRevB.TXT]
+   Generated File[MasterBoardRevB.LDP]
+   Generated File[MasterBoardRevB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:40:17 PM On 2/3/2021
