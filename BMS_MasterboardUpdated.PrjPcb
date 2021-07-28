@@ -24,7 +24,6 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
-AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
@@ -126,23 +125,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QQCLWFSF
 
 [Document6]
-DocumentPath=MasterBoardRevA.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UUIEFDGM
-
-[Document7]
 DocumentPath=Libraries\SAMTEC-FTSH-105-01-X-D\SnapEDAsch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -159,7 +141,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVHTISAB
 
-[Document8]
+[Document7]
 DocumentPath=BMS_MasterboardUpdated.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +158,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SNPDWPLS
 
-[Document9]
+[Document8]
 DocumentPath=BMS_MasterboardUpdated.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=Libraries\SAMTEC-FTSH-105-01-X-D\SnapEDApcb.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -210,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document11]
+[Document10]
 DocumentPath=BMS_MasterboardUpdated.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -227,24 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
-DocumentPath=MasterBoardRevB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DCJCFQNL
-
-[Document13]
+[Document11]
 DocumentPath=BMS_MasterboardUpdated2\BMS_MasterboardUpdated_1.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -261,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=STYWDGCX
 
-[Document14]
+[Document12]
 DocumentPath=BMS_MasterboardUpdated2\MasterBoardRevA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -278,7 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FTCQNMTS
 
-[Document15]
+[Document13]
 DocumentPath=BMS_MasterboardOutput.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -295,8 +260,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
-DocumentPath=MasterBoardRevC.PcbDoc
+[Document14]
+DocumentPath=MasterBoard (SurfaceMount).PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -311,65 +276,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUXYYKCV
-
-[Document17]
-DocumentPath=..\RIT Racing Altium Libraries\Project Output for IC's\IC's.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
-DocumentPath=..\RIT Racing Altium Libraries\Project Outputs for Connectors\Connectors.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
-DocumentPath=..\RIT Racing Altium Libraries\Project Outputs for Passives\Passives.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for BMS_MasterboardUpdated\Design Rule Check - MasterBoardRevB.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for BMS_MasterboardUpdated\Design Rule Check - MasterBoardRevC.html
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -529,7 +435,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP608FD4 (HP OfficeJet Pro 8020 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
