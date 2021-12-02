@@ -50,7 +50,7 @@ Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType2=BOM_PartType
 OutputName2=Bill of Materials
 OutputCategory2=Report
-OutputDocumentPath2=
+OutputDocumentPath2=MasterBoard Filips Shape.PcbDoc
 OutputVariantName2=[No Variations]
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
@@ -64,7 +64,7 @@ Configuration2_Item1=TemplateFilename=Board Stack Report.XLT
 OutputType3=Gerber
 OutputName3=Gerber Files
 OutputCategory3=Fabrication
-OutputDocumentPath3=MasterBoardRevC.PcbDoc
+OutputDocumentPath3=MasterBoard Filips Shape.PcbDoc
 OutputVariantName3=
 OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
@@ -77,7 +77,7 @@ Configuration3_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType4=NC Drill
 OutputName4=NC Drill Files
 OutputCategory4=Fabrication
-OutputDocumentPath4=MasterBoardRevC.PcbDoc
+OutputDocumentPath4=MasterBoard Filips Shape.PcbDoc
 OutputVariantName4=
 OutputEnabled4=1
 OutputEnabled4_OutputMedium1=0
@@ -87,6 +87,19 @@ OutputEnabled4_OutputMedium4=0
 OutputDefault4=0
 Configuration4_Name1=OutputConfigurationParameter1
 Configuration4_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Imperial|ZeroesMode=KeepLeadingAndTrailingZeroes|DocumentPath=C:\Users\spb35\Desktop\Projects\F28\MasterBoard\MasterBoardRevC.PcbDoc
+OutputType5=ExportSTEP
+OutputName5=Export STEP
+OutputCategory5=Export
+OutputDocumentPath5=MasterBoard Filips Shape.PcbDoc
+OutputVariantName5=
+OutputEnabled5=1
+OutputEnabled5_OutputMedium1=0
+OutputEnabled5_OutputMedium2=0
+OutputEnabled5_OutputMedium3=3
+OutputEnabled5_OutputMedium4=0
+OutputDefault5=0
+Configuration5_Name1=OutputConfigurationParameter1
+Configuration5_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModelsOption=2|ExportHolesOption=0|CanSelectPrimitives=False|IncludeMechanicalPadHoles=True|IncludeElectricalPadHoles=True|IncludeFreePadHoles=True|ExportFoldedBoard=True|ExportFoldedBoardRate=100|ComponentSuffixType=0|ComponentSuffix= |ExportCopperOption=0|ExportCopperLayer=0|ExportPadAndViaBarrelsOnly=False|IgnoreBoardCopperLayerColors=False|ExportAsSinglePart=True|IncludeCoverLayer=True|SkipFreeBodies=False|SkipHidden=False|DocumentPath=C:\Users\bseri\Desktop\Formula Material\MasterBoardGit\MasterBoard\MasterBoard Filips Shape.PcbDoc
 
 [PublishSettings]
 OutputFilePath2=D:\Bryan\Desktop\.PDF
@@ -116,7 +129,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\spb35\Desktop\Projects\F28\MasterBoard\Project Outputs for BMS_MasterboardUpdated\
+OutputFilePath3=C:\Users\bseri\Desktop\Formula Material\MasterBoardGit\MasterBoard\Project Outputs for BMS_MasterboardUpdated\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for BMS_MasterboardUpdated
 OutputPathMedia3=
@@ -170,7 +183,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=D:\Bryan\Desktop\.PDF
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\spb35\Desktop\Projects\F28\MasterBoard\Project Outputs for BMS_MasterboardUpdated\
+RelativeOutputPath3=C:\Users\bseri\Desktop\Formula Material\MasterBoardGit\MasterBoard\Project Outputs for BMS_MasterboardUpdated\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
