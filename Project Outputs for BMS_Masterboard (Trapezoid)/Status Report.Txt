@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [BMS_Masterboard (Trapezoid).PrjPcb]
+   Generated File[Bill of Materials-BMS_Masterboard (Trapezoid).xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:31:14 PM On 12/1/2021
