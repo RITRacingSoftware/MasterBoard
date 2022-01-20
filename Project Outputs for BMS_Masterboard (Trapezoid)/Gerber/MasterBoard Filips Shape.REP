@@ -1,0 +1,476 @@
+*************************************************************
+FileName = MasterBoard Filips Shape.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Overlay
+      File : MasterBoard Filips Shape.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : MasterBoard Filips Shape.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : MasterBoard Filips Shape.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D139
+    D140
+*************************************************************
+
+*************************************************************
+Generating : GROUND
+      File : MasterBoard Filips Shape.GP1
+
+    Adding Layer      : GROUND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+*************************************************************
+
+*************************************************************
+Generating : POWER
+      File : MasterBoard Filips Shape.GP2
+
+    Adding Layer      : POWER
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D130
+    D131
+    D133
+    D135
+    D136
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MasterBoard Filips Shape.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : MasterBoard Filips Shape.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : MasterBoard Filips Shape.GM21
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : MasterBoard Filips Shape.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : MasterBoard Filips Shape.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : MasterBoard Filips Shape.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : MasterBoard Filips Shape.GM4
+
+    Adding Layer      : Mechanical 4
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : MasterBoard Filips Shape.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : MasterBoard Filips Shape.GM6
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : MasterBoard Filips Shape.GM7
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : MasterBoard Filips Shape.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D68
+    D75
+    D101
+    D102
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D137
+    D138
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : MasterBoard Filips Shape.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D23
+    D24
+    D25
+    D29
+    D30
+    D31
+    D32
+    D33
+    D37
+    D42
+    D43
+    D44
+    D50
+    D51
+    D54
+    D56
+    D68
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 10
+      File : MasterBoard Filips Shape.GM10
+
+    Adding Layer      : Mechanical 10
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : BOARD
+      File : MasterBoard Filips Shape.GM16
+
+    Adding Layer      : BOARD
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : MasterBoard Filips Shape.GM20
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : MasterBoard Filips Shape.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D17
+    D18
+    D19
+    D141
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : MasterBoard Filips Shape.GM23
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : MasterBoard Filips Shape.GM24
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : MasterBoard Filips Shape.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D12
+    D15
+    D18
+    D142
+*************************************************************
+

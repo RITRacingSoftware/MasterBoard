@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: MasterBoard Filips Shape.PcbDoc   1/15/2022  4:22:25 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : MasterBoard Filips Shape.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             82        PTH        14.82inch (376.45mm)
+T2      18mil (0.457mm)                                           Round             7         PTH        6.24inch (158.55mm)
+T3      20mil (0.508mm)                                           Round             6         PTH        0.54inch (13.70mm)
+T4      28mil (0.701mm)                                           Round             2         PTH        0.08inch (2.00mm)
+T5      28mil (0.711mm)                                           Round             10        PTH        0.45inch (11.43mm)
+T6      39mil (1.001mm)                                           Round             6         PTH        0.77inch (19.44mm)
+T7      71mil (1.801mm)                                           Round             16        PTH        3.69inch (93.79mm)
+T8      129mil (3.277mm)                                          Round             7         PTH        10.06inch (255.47mm)
+T9      95mil (2.41mm)                                            Round             2         NPTH       0.29inch (7.30mm)
+T10     118mil (3mm)                                              Round             4         NPTH       2.13inch (54.20mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              142
+
+Total Processing Time (hh:mm:ss) : 00:00:01
